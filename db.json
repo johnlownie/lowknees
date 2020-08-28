@@ -1,0 +1,15 @@
+{
+  "images": [
+    {
+      "name": "cafelines",
+      "type": "png",
+      "caption": "Action Analysis Cafe",
+      "folder": "layouts",
+      "show": true,
+      "showcase": true
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

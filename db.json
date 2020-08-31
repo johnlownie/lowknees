@@ -1,13 +1,48 @@
 {
   "images": [
-    {
-      "name": "cafelines",
-      "type": "png",
-      "caption": "Action Analysis Cafe",
-      "folder": "layouts",
-      "show": true,
-      "showcase": true
-    }
+    { "folder": "animation"       , "group": "", "name": "amphiiron"  , "type": "gif", "caption": "", "show": true, "welcome": false },
+    { "folder": "animation"       , "group": "", "name": "catdrink"   , "type": "gif", "caption": "", "show": true, "welcome": false },
+    { "folder": "animation"       , "group": "", "name": "catslurry"  , "type": "gif", "caption": "", "show": true, "welcome": false },
+    { "folder": "animation"       , "group": "", "name": "demonslurry", "type": "gif", "caption": "", "show": true, "welcome": false },
+    { "folder": "animation"       , "group": "", "name": "demonspray" , "type": "gif", "caption": "", "show": true, "welcome": false },
+    { "folder": "animation"       , "group": "", "name": "eyegrab"    , "type": "gif", "caption": "", "show": true, "welcome": false },
+    { "folder": "animation"       , "group": "", "name": "fruitidle"  , "type": "gif", "caption": "", "show": true, "welcome": false },
+    { "folder": "animation"       , "group": "", "name": "grubneedle" , "type": "gif", "caption": "", "show": true, "welcome": false },
+    { "folder": "animation"       , "group": "", "name": "impmed"     , "type": "gif", "caption": "", "show": true, "welcome": false },
+    { "folder": "animation"       , "group": "", "name": "normaldrink", "type": "gif", "caption": "", "show": true, "welcome": false },
+
+    { "folder": "character-design", "group": "Turnarounds", "name": "grub-expressions"  , "type": "png", "caption": "", "show": true, "welcome": false },
+    { "folder": "character-design", "group": "Turnarounds", "name": "grub-turnaround"   , "type": "png", "caption": "", "show": true, "welcome": false },
+    { "folder": "character-design", "group": "Turnarounds", "name": "nomerit-turnaround", "type": "png", "caption": "", "show": true, "welcome": false },
+    { "folder": "character-design", "group": "General"    , "name": "baby"              , "type": "png", "caption": "", "show": true, "welcome": false },
+    { "folder": "character-design", "group": "General"    , "name": "cherry-mascot"     , "type": "png", "caption": "", "show": true, "welcome": false },
+    { "folder": "character-design", "group": "General"    , "name": "dnd-maple"         , "type": "png", "caption": "", "show": true, "welcome": false },
+    { "folder": "character-design", "group": "General"    , "name": "girls"             , "type": "png", "caption": "", "show": true, "welcome": false },
+    { "folder": "character-design", "group": "General"    , "name": "grendle"           , "type": "png", "caption": "", "show": true, "welcome": false },
+    { "folder": "character-design", "group": "General"    , "name": "naima"             , "type": "png", "caption": "", "show": true, "welcome": false },
+    { "folder": "character-design", "group": "General"    , "name": "oskar"             , "type": "png", "caption": "", "show": true, "welcome": false },
+
+    { "folder": "graphic-design"  , "group": "Scoop It Up"  , "name": "selection-screen", "type": "png", "caption": "", "show": true, "welcome": false },
+    { "folder": "graphic-design"  , "group": "Scoop It Up"  , "name": "splashscreen"    , "type": "png", "caption": "", "show": true, "welcome": false },
+    { "folder": "graphic-design"  , "group": "Scoop It Up"  , "name": "victory-screen"  , "type": "png", "caption": "", "show": true, "welcome": false },
+    { "folder": "graphic-design"  , "group": "Dumpster Date", "name": "dumpster-date"   , "type": "gif", "caption": "", "show": true, "welcome": false },
+    { "folder": "graphic-design"  , "group": "Dumpster Date", "name": "eyeball"         , "type": "gif", "caption": "", "show": true, "welcome": false },
+    { "folder": "graphic-design"  , "group": "Dumpster Date", "name": "foot"            , "type": "gif", "caption": "", "show": true, "welcome": false },
+    { "folder": "graphic-design"  , "group": "Dumpster Date", "name": "guts"            , "type": "gif", "caption": "", "show": true, "welcome": false },
+    { "folder": "graphic-design"  , "group": "Dumpster Date", "name": "hand"            , "type": "gif", "caption": "", "show": true, "welcome": false },
+    { "folder": "graphic-design"  , "group": "Dumpster Date", "name": "pick-a-site"     , "type": "gif", "caption": "", "show": true, "welcome": false },
+
+    { "folder": "layout"          , "group": "General"               , "name": "cafelines"   , "type": "png", "caption": "", "show": true, "welcome": true  },
+    { "folder": "layout"          , "group": "General"               , "name": "herm-room"   , "type": "png", "caption": "", "show": true, "welcome": true  },
+    { "folder": "layout"          , "group": "Sol Hemochroma"        , "name": "door"        , "type": "png", "caption": "", "show": true, "welcome": false },
+    { "folder": "layout"          , "group": "Sol Hemochroma"        , "name": "dundurn"     , "type": "png", "caption": "", "show": true, "welcome": false },
+    { "folder": "layout"          , "group": "Sol Hemochroma"        , "name": "sitting-room", "type": "png", "caption": "", "show": true, "welcome": false },
+    { "folder": "layout"          , "group": "Sol Hemochroma"        , "name": "study"       , "type": "png", "caption": "", "show": true, "welcome": true  },
+    { "folder": "layout"          , "group": "3rd Year Film - Rewind", "name": "rewind1"     , "type": "png", "caption": "", "show": true, "welcome": true  },
+    { "folder": "layout"          , "group": "3rd Year Film - Rewind", "name": "rewind2"     , "type": "png", "caption": "", "show": true, "welcome": false },
+    { "folder": "layout"          , "group": "BAPY"                  , "name": "home"        , "type": "png", "caption": "", "show": true, "welcome": false },
+    { "folder": "layout"          , "group": "BAPY"                  , "name": "shop"        , "type": "png", "caption": "", "show": true, "welcome": true  },
+    { "folder": "layout"          , "group": "BAPY"                  , "name": "slurry"      , "type": "png", "caption": "", "show": true, "welcome": true  }
   ],
   "profile": {
     "name": "typicode"
